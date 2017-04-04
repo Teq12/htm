@@ -2,5 +2,5 @@
 
 class SDR 
 {
-    
+    int test;
 };
